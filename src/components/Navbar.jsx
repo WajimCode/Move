@@ -28,7 +28,7 @@ export default function Navbar() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 shrink-0">
             <span className="text-2xl">🎬</span>
-            <span className="font-display text-2xl tracking-widest text-gradient-gold">Ematic</span>
+            <span className="font-display text-2xl tracking-widest text-gradient-gold">Move</span>
           </Link>
 
           {/* Desktop Search */}
